@@ -1,1 +1,1 @@
-"function dividir(a, b) { return a / b; }" 
+"function dividir(x, y) { return x / y; }" 
